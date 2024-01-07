@@ -1,0 +1,2 @@
+Python is used to create web applications.
+Python is used in data science
